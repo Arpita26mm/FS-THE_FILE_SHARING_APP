@@ -1,6 +1,6 @@
+![FS_Header](https://github.com/Arpita26mm/FS-THE_FILE_SHARING_APP/assets/100471667/36d80c64-e4c1-4d3c-9543-25bf5bd9a884)
 
 
-![FS_Header](https://github.com/Arpita26mm/FS-File_Sharing_App/assets/100471667/39334a1f-0363-4ffc-939a-357e68799a28)
 
 # 📁FS App
 
@@ -37,12 +37,12 @@ FS app is a file-sharing application designed to facilitate the easy transfer of
 ## ✨ Preview
 
 <p align="center">
-  <img src="https://github.com/Arpita26mm/FS-File_Sharing_App/assets/100471667/05476dcc-c190-4907-8bb4-bacf77df2774" alt="Description of image 1" width="323" height="190">
-  <img src="https://github.com/Arpita26mm/FS-File_Sharing_App/assets/100471667/af97613e-ca71-4b22-93c7-1a0ca4fe213b" alt="Description of image 2" width="323" height="190">
+  <img src="https://github.com/Arpita26mm/FS-THE_FILE_SHARING_APP/assets/100471667/a8a21298-5ce8-49cc-b388-0f1be50c18ad" alt="Description of image 1" width="323" height="190">
+  <img src="https://github.com/Arpita26mm/FS-THE_FILE_SHARING_APP/assets/100471667/add35019-4e0d-43a5-a924-32cf1b2083a0" alt="Description of image 2" width="323" height="190">
 </p>
 <p align="center">
-  <img src="https://github.com/Arpita26mm/FS-File_Sharing_App/assets/100471667/31a556c1-e180-4e55-b22b-a2230cceea64" alt="Description of image 1" width="323" height="190">
-  <img src="https://github.com/Arpita26mm/FS-File_Sharing_App/assets/100471667/30232f3b-8bf1-498d-a9e0-9c1e89b930a6" alt="Description of image 2" width="323" height="190">
+  <img src="https://github.com/Arpita26mm/FS-THE_FILE_SHARING_APP/assets/100471667/fe78123b-15f3-46e8-ac68-d63358292e46" alt="Description of image 1" width="323" height="190">
+  <img src="https://github.com/Arpita26mm/FS-THE_FILE_SHARING_APP/assets/100471667/cfcb88b6-e17e-44d7-8fcb-6b303aac5644" alt="Description of image 2" width="323" height="190">
 </p>
 
 
